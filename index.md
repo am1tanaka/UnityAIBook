@@ -1,9 +1,20 @@
 # はじめてのAssistant&Generatorsサポートサイト
 
+## 画像素材
 
-- ジャンプ＆ポンのゲーム画面イメージ [kousou-rough.png](images/kousou-rough.png)
-  - リンクを右クリックして、画像をダウンロード
-- ステージのドット絵[pixel-stage.png](images/pixel-stage.png)
+本書で利用する画像素材です。画像を右クリックして、
+
+### kousou-rough.png 
+
+![kousou-rough.png](images/kousou-rough.png)
+
+[kousou-rough.png](images/kousou-rough.png)
+
+### pixel-stage.png
+
+![pixel-stage.png](images/pixel-stage.png)
+
+[pixel-stage.png](images/pixel-stage.png)
 
 ## プロンプト一覧
 
