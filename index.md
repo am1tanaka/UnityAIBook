@@ -3,6 +3,7 @@
 
 - ジャンプ＆ポンのゲーム画面イメージ [kousou-rough.png](images/kousou-rough.png)
   - リンクを右クリックして、画像をダウンロード
+- ステージのドット絵[pixel-stage.png](images/pixel-stage.png)
 
 ## プロンプト一覧
 
