@@ -18,8 +18,6 @@
 
 ## プロンプト一覧
 
-<script src="https://gist.github.com/am1tanaka/62717fea542289d333f766906a722553.js"></script>
-
 
 ### リスト 3.8 開発手順
 
@@ -106,3 +104,8 @@ UnityのLTSの最新版。
 - 急降下中は、操作なし
 - 障害物を踏むと、ジャンプ
 ```
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+<script>
+  new ClipboardJS('.copy-button');
+</script>
