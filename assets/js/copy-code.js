@@ -9,11 +9,20 @@ document.addEventListener("DOMContentLoaded", function () {
         var uniqueId = 'code-block-' + index;
         codeBlock.setAttribute('id', uniqueId);
 
+        // 💡 変更点: コピーしたいコードのテキスト全体を取得 (改行を保持)
+        // <code>要素のtextContentプロパティを使う
+        var codeElement = codeBlock.querySelector('code');
+        if (!codeElement) return; // <code>要素がない場合はスキップ
+
+        var codeText = codeElement.textContent; // <pre><code>...</code></pre> の中身を改行ごと取得
+
         // コピーボタンの要素を作成
         var copyButton = document.createElement('button');
         copyButton.className = 'copy-code-button';
         copyButton.innerHTML = 'Copy';
-        copyButton.setAttribute('data-clipboard-target', '#' + uniqueId + ' > code'); // コピー対象は<code>タグの中身
+
+        // 💡 変更点: コピーしたいテキスト全体を data-clipboard-text 属性に設定
+        copyButton.setAttribute('data-clipboard-text', codeText);
 
         // ボタンをコードブロックのラッパー要素（<pre.highlight>）に追加
         codeBlock.prepend(copyButton);
