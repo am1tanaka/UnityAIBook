@@ -18,6 +18,9 @@
 
 ## プロンプト一覧
 
+<script src="https://gist.github.com/am1tanaka/62717fea542289d333f766906a722553.js"></script>
+
+
 ### リスト 3.8 開発手順
 
 ```
