@@ -104,8 +104,3 @@ UnityのLTSの最新版。
 - 急降下中は、操作なし
 - 障害物を踏むと、ジャンプ
 ```
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-<script>
-  new ClipboardJS('.copy-button');
-</script>
