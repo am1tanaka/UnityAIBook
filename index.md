@@ -8,13 +8,11 @@
 
 <img src="images/kousou-rough.png" alt="kousou-rough.png" height=160px>
 
-[kousou-rough.png](images/kousou-rough.png)
+<a href="images/kousou-rough.png" download=true>kousou-rough.pngをダウンロードする</a>
 
 ### pixel-stage.png
 
-<img src="images/pixel-stage.png" alt="pixel-stage.png" height=160px>
-
-[pixel-stage.png](images/pixel-stage.png)
+<img src="images/pixel-stage.png" alt="pixel-stage.png" height=160px class="sharp-image">
 
 <a href="images/pixel-stage.png" download=true>pixel-stage.pngをダウンロードする</a>
 
