@@ -6,13 +6,13 @@
 
 ### kousou-rough.png 
 
-![kousou-rough.png](images/kousou-rough.png)
+<img src="images/kousou-rough.png" alt="kousou-rough.png" height=160px>
 
 [kousou-rough.png](images/kousou-rough.png)
 
 ### pixel-stage.png
 
-![pixel-stage.png](images/pixel-stage.png)
+<img src="images/pixel-stage.png" alt="pixel-stage.png" height="160px">
 
 [pixel-stage.png](images/pixel-stage.png)
 

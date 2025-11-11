@@ -30,3 +30,7 @@
         background-color: #007bff; /* ホバー時の色 */
     }
 }
+
+img {
+    image-rendering: -webkit-optimize-contrast;
+}
