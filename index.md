@@ -12,9 +12,11 @@
 
 ### pixel-stage.png
 
-<img src="images/pixel-stage.png" alt="pixel-stage.png" height="160px">
+<img src="images/pixel-stage.png" alt="pixel-stage.png" height=160px>
 
 [pixel-stage.png](images/pixel-stage.png)
+
+<a href="images/pixel-stage.png" download=true>pixel-stage.pngをダウンロードする</a>
 
 ## プロンプト一覧
 
