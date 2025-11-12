@@ -4,6 +4,8 @@
   - 誤：Unity UIベータ版を使ってみよう！
   - 正：Unity AIベータ版を使ってみよう！
 
+お気づきのことやご質問、ご要望がございましたら、<a href="https://github.com/am1tanaka/UnityAIBook/issues">こちらのIssues</a>に書き込みをお願いします。
+
 
 ## プロンプトと画像
 
