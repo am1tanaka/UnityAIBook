@@ -20,7 +20,7 @@
 
 <img src="images/kousou-rough.png" alt="kousou-rough.png" height=160px>
 
-<a href="images/kousou-rough.png" download=true>kousou-rough.pngをダウンロードする</a>
+<a href="images/kousou-rough.png" download="kousou-rough.png" kousou-rough.pngをダウンロードする</a>
 
 
 #### リスト 3.8 開発手順
@@ -138,7 +138,7 @@ UnityのLTSの最新版。
 
 <img src="images/pixel-stage.png" alt="pixel-stage.png" height=160px class="sharp-image">
 
-<a href="images/pixel-stage.png" download=true>pixel-stage.pngをダウンロードする</a>
+<a href="images/pixel-stage.png" download="pixel-stage.png">pixel-stage.pngをダウンロードする</a>
 
 #### リスト3.38 テスト用のステージを配置するプロンプト
 
