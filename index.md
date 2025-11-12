@@ -20,7 +20,7 @@
 
 <img src="images/kousou-rough.png" alt="kousou-rough.png" height=160px>
 
-<a href="images/kousou-rough.png" download="kousou-rough.png" kousou-rough.pngをダウンロードする</a>
+<a href="images/kousou-rough.png" download="kousou-rough.png">kousou-rough.pngをダウンロードする</a>
 
 
 #### リスト 3.8 開発手順
