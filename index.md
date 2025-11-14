@@ -1,3 +1,8 @@
+
+- [正誤表](#正誤表)
+- [プロンプトと画像](#プロンプトと画像)
+- [参考・関連URL](#参考・関連URL)
+
 ## 正誤表
 
 - 紙版の奥付(2025/11/15)
@@ -255,3 +260,40 @@ noise, reverb, music, distorted, voice
 ```
 noise, reverb, music, distorted, voice
 ```
+
+## 参考・関連URL
+
+- [本書のサポートページ](https://am1tanaka.github.io/UnityAIBook/)
+  - 本書のプロンプトや、参照画像、正誤表、追加情報などを掲載しています。
+- [Unity AIプロダクトページ](https://unity.com/ja/products/ai)
+  - Unity AIに関する情報がまとまっています。FAQには、ベータ版の間に既存のプロジェクトでUnity AIを使用できるかや、データの使用方針などを確認できます。
+- [Unityのロードマップ](https://unity.com/ja/roadmap)
+  - Unity AIに実装が計画されている機能や、予定している価格プランなどが掲載されています。
+- [Unity Terms of Service](https://unity.com/legal/terms-of-service)
+  - Unityの利用規約です。Unity AIを利用する際に、同意を求められます。
+- [Unity AI Guiding Principles](https://unity.com/legal/unityai-guiding-principles)
+  - Unity AIのガイドライン。Unity AIを利用する際に、同意を求められます。
+- [hugging-face](https://huggingface.co)
+  - 機械学習のコミュニティで利用されている共同作業のプラットフォームです。学習済みのモデルが公開されていて、推論エンジンで利用できます。
+- [Unityのダウンロードサイト](https://unity.com/ja/download)
+  - Unityのインストールがまだの場合、ここからダウンロードして、インストールしてください。
+- [Assistantのマニュアル](https://docs.unity3d.com/Packages/com.unity.ai.assistant@1.0/manual/best-practice-assistant.html)
+  - Assistantパッケージのマニュアルです。
+- [Unity Learn. Unity AIを使用してシーンのプロトタイプを作成する](https://learn.unity.com/course/prototype-a-scene-with-unity-ai)
+  - Unity AIを使ってシーンのプロトタイプを作成する公式のチュートリアルです。
+- [オンラインスプライトエディターPiskel](https://www.piskelapp.com/)
+  - ステージの形状を指定するドット絵の作成に利用しました。
+- [Unity Learn. スプライトジェネレーターを使ってアバターアイコンを作成する](https://learn.unity.com/course/prototype-a-scene-with-unity-ai/tutorial/supuraitozieneretawoshi-tsuteabataaikonwozuo-cheng-suru)
+  - スプライトジェネレーターの使い方の公式チュートリアルです。プロンプトのベストプラクティスなどが掲載されています。
+- [Generatorsパッケージのマニュアル](https://docs.unity3d.com/Packages/com.unity.ai.generators@1.0/manual/Sprite/modify-sprite.html)
+  - Generatorsパッケージの公式マニュアルです。
+- [Generatorsパッケージのマニュアル：参照イメージの使い方](https://docs.unity3d.com/Packages/com.unity.ai.generators@1.0/manual/Sprite/reference-image.html)
+  - Generatorsパッケージのマニュアルに掲載されている参照イメージの使い方です。
+- [Unity Learn. マテリアルジェネレーターとテクスチャジェネレーターを使って環境を作成する:「5. 地面用のマテリアルを生成する」](https://learn.unity.com/course/prototype-a-scene-with-unity-ai/tutorial/materiaruzieneretatotekusuchiyazieneretawoshi-tsutehuan-jing-wozuo-cheng-suru)
+  - 地面用のマテリアルを生成する公式チュートリアルです。
+- [Unityマニュアル 対応ビデオフォーマット](https://docs.unity3d.com/Manual/VideoSources-FileCompatibility.html)
+  - Unityで使えるビデオフォーマットです。
+- [著者のWebサイト 「FROM RIVERSIDE」 https://am1.jp/](https://am1.jp)
+  - 著者の日々の活動ログなどを掲載しています。
+- [著者のBlueskyアカウント @am1tanaka.bsky.social](https://bsky.app/profile/am1tanaka.bsky.social)
+  - 活動を呟いています。
